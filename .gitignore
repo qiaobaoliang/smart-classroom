@@ -1,0 +1,6 @@
+# git忽略项
+
+*.pyc
+.idea
+.vscode/*
+
